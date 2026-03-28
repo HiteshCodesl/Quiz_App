@@ -17,7 +17,5 @@ export class UserManager {
             roomId,
             socket
         })
-
-        
     }
 }
