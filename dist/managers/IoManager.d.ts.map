@@ -1,0 +1,1 @@
+{"version":3,"file":"IoManager.d.ts","sourceRoot":"","sources":["../../src/managers/IoManager.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAA;AAIlC,qBAAa,SAAS;IAClB,OAAO,CAAC,MAAM,CAAC,EAAE,CAAS;IAC1B,OAAO,CAAC,MAAM,CAAC,QAAQ,CAAY;WACrB,WAAW;CAe5B"}
